@@ -58,8 +58,8 @@ I will also include at least one exclusion check (e.g., verifying that I/O is no
 Each mitigation will be validated with before/after comparisons.
 
 **Timeline**
-Week 1–2: Setup and baseline measurements
-Week 3–5: Run experiments
-Week 6–7: Analyze results
-Week 8–9: Test mitigations
-Week 10: Final report
+- Week 1–2: Setup and baseline measurements
+- Week 3–5: Run experiments
+- Week 6–7: Analyze results
+- Week 8–9: Test mitigations
+- Week 10: Final report
