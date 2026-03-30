@@ -58,8 +58,27 @@ I will also include at least one exclusion check (e.g., verifying that I/O is no
 Each mitigation will be validated with before/after comparisons.
 
 **Timeline**
-- Week 1–2: Setup and baseline measurements
-- Week 3–5: Run experiments
-- Week 6–7: Analyze results
-- Week 8–9: Test mitigations
-- Week 10: Final report
+- **Week 6 (Proposal Submission):**  
+  Submit project plan on GitHub
+
+- **Week 7–8 (Initial Evidence Collection):**  
+  Collect baseline performance data (TTFT, p99 latency, tokens/s).  
+  Gather initial system-level metrics using tools like pidstat and /proc.  
+  Begin early analysis of system behavior.
+
+- **Week 9 (Core Experiments):**  
+  Run controlled experiments by varying concurrency, thread count, and prompt length.  
+  Begin CPU quota (cgroup) testing and observe impact on performance.
+
+- **Week 10 (Freeze Milestone):**  
+  Finalize key results and identify performance bottlenecks.  
+  Complete CPU and memory limit experiments.  
+  Define mitigation strategies based on observed behavior.
+
+- **Week 11 (Mitigation + Validation):**  
+  Implement system-level and application-level mitigations.  
+  Validate improvements using before/after comparisons.
+
+- **Week 12 (Final Defense):**  
+  Prepare final report and presentation.  
+  Ensure experiments are reproducible and results are clearly explained.
