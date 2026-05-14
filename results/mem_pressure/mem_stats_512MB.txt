@@ -1,0 +1,138 @@
+=== 2026-05-13T12:38:22-04:00 ===
+anon 524550144
+file 12288
+file_mapped 0
+file_dirty 8192
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 177577984
+active_anon 347492352
+inactive_file 8192
+active_file 4096
+workingset_refault_anon 20243
+workingset_refault_file 1
+workingset_activate_anon 4565
+workingset_activate_file 0
+workingset_restore_anon 4221
+workingset_restore_file 0
+pgfault 951562
+pgmajfault 5042
+some avg10=5.77 avg60=1.12 avg300=0.23 total=732177
+full avg10=5.77 avg60=1.12 avg300=0.23 total=726668
+vmstat:  2  0 132568 1410464 284932 4690728    9    7  2005    63  274    1  1  1 98  0  0  0
+=== 2026-05-13T12:38:24-04:00 ===
+anon 527028224
+file 53248
+file_mapped 0
+file_dirty 8192
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 177577984
+active_anon 350384128
+inactive_file 24576
+active_file 28672
+workingset_refault_anon 20530
+workingset_refault_file 1
+workingset_activate_anon 4685
+workingset_activate_file 0
+workingset_restore_anon 4341
+workingset_restore_file 0
+pgfault 954909
+pgmajfault 5145
+some avg10=4.72 avg60=1.08 avg300=0.23 total=732325
+full avg10=4.72 avg60=1.08 avg300=0.23 total=726816
+vmstat:  5  0 131844 1408496 284932 4690776    9    7  2004    63  274    1  1  1 98  0  0  0
+=== 2026-05-13T12:38:30-04:00 ===
+anon 531382272
+file 36864
+file_mapped 0
+file_dirty 4096
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 176939008
+active_anon 355278848
+inactive_file 0
+active_file 36864
+workingset_refault_anon 20574
+workingset_refault_file 1
+workingset_activate_anon 4701
+workingset_activate_file 0
+workingset_restore_anon 4355
+workingset_restore_file 0
+pgfault 961504
+pgmajfault 5161
+some avg10=2.59 avg60=0.98 avg300=0.23 total=734627
+full avg10=2.59 avg60=0.98 avg300=0.23 total=729013
+vmstat:  1  0 133372 1406044 284940 4690752    9    7  2004    63  274    1  1  1 98  0  0  0
+=== 2026-05-13T12:38:34-04:00 ===
+anon 528793600
+file 53248
+file_mapped 0
+file_dirty 8192
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 174215168
+active_anon 355332096
+inactive_file 8192
+active_file 45056
+workingset_refault_anon 20578
+workingset_refault_file 8
+workingset_activate_anon 4701
+workingset_activate_file 3
+workingset_restore_anon 4355
+workingset_restore_file 0
+pgfault 966290
+pgmajfault 5164
+some avg10=1.92 avg60=0.95 avg300=0.23 total=754734
+full avg10=1.92 avg60=0.95 avg300=0.23 total=749052
+vmstat:  1  0 134776 1404752 284940 4690792    9    7  2004    63  274    1  1  1 98  0  0  0
+=== 2026-05-13T12:38:38-04:00 ===
+anon 526893056
+file 53248
+file_mapped 0
+file_dirty 8192
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 174215168
+active_anon 353599488
+inactive_file 8192
+active_file 45056
+workingset_refault_anon 20582
+workingset_refault_file 8
+workingset_activate_anon 4702
+workingset_activate_file 3
+workingset_restore_anon 4355
+workingset_restore_file 0
+pgfault 970407
+pgmajfault 5167
+some avg10=1.28 avg60=0.89 avg300=0.23 total=754734
+full avg10=1.28 avg60=0.89 avg300=0.23 total=749052
+vmstat:  1  0 134772 1404312 284948 4690788    9    7  2004    63  274    1  1  1 98  0  0  0
+=== 2026-05-13T12:38:42-04:00 ===
+anon 526794752
+file 53248
+file_mapped 0
+file_dirty 8192
+file_writeback 0
+anon_thp 0
+file_thp 0
+inactive_anon 174215168
+active_anon 353525760
+inactive_file 8192
+active_file 45056
+workingset_refault_anon 20585
+workingset_refault_file 8
+workingset_activate_anon 4702
+workingset_activate_file 3
+workingset_restore_anon 4355
+workingset_restore_file 0
+pgfault 976524
+pgmajfault 5170
+some avg10=0.86 avg60=0.83 avg300=0.22 total=754734
+full avg10=0.86 avg60=0.83 avg300=0.22 total=749052
+vmstat:  1  0 134768 1404008 284948 4690792    9    7  2004    63  274    1  1  1 98  0  0  0

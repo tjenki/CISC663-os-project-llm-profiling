@@ -1,0 +1,117 @@
+=== 2026-05-13T12:34:42-04:00 ===
+usage_usec 199266632
+user_usec 168271007
+system_usec 30995625
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 6561
+nr_throttled 6416
+throttled_usec 2233488276
+nr_bursts 0
+burst_usec 0
+some avg10=84.69 avg60=87.04 avg300=79.86 total=588006126
+full avg10=84.12 avg60=85.77 avg300=79.16 total=585177591
+=== 2026-05-13T12:35:06-04:00 ===
+usage_usec 214560082
+user_usec 181771194
+system_usec 32788888
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 6799
+nr_throttled 6654
+throttled_usec 2312686070
+nr_bursts 0
+burst_usec 0
+some avg10=95.35 avg60=88.43 avg300=80.68 total=607816392
+full avg10=95.18 avg60=87.53 avg300=80.02 total=604980936
+=== 2026-05-13T12:35:14-04:00 ===
+usage_usec 220015496
+user_usec 186241286
+system_usec 33774210
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 6884
+nr_throttled 6726
+throttled_usec 2340870616
+nr_bursts 0
+burst_usec 0
+some avg10=90.38 avg60=87.65 avg300=80.70 total=614869211
+full avg10=90.12 avg60=86.83 avg300=80.05 total=612028529
+=== 2026-05-13T12:35:30-04:00 ===
+usage_usec 229699560
+user_usec 194433124
+system_usec 35266436
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7036
+nr_throttled 6878
+throttled_usec 2392023366
+nr_bursts 0
+burst_usec 0
+some avg10=94.35 avg60=88.55 avg300=81.24 total=627659667
+full avg10=94.22 avg60=87.89 avg300=80.62 total=624816967
+=== 2026-05-13T12:35:34-04:00 ===
+usage_usec 232803772
+user_usec 197249814
+system_usec 35553958
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7083
+nr_throttled 6919
+throttled_usec 2406802292
+nr_bursts 0
+burst_usec 0
+some avg10=88.91 avg60=87.73 avg300=81.16 total=631370387
+full avg10=88.82 avg60=87.12 avg300=80.55 total=628521823
+=== 2026-05-13T12:35:54-04:00 ===
+usage_usec 245166488
+user_usec 207718331
+system_usec 37448157
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7276
+nr_throttled 7112
+throttled_usec 2471711434
+nr_bursts 0
+burst_usec 0
+some avg10=92.95 avg60=87.25 avg300=81.38 total=647602505
+full avg10=92.88 avg60=86.78 avg300=80.80 total=644749244
+=== 2026-05-13T12:36:18-04:00 ===
+usage_usec 261253128
+user_usec 222266123
+system_usec 38987005
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7525
+nr_throttled 7326
+throttled_usec 2553404118
+nr_bursts 0
+burst_usec 0
+some avg10=92.75 avg60=86.29 avg300=81.47 total=668148966
+full avg10=92.49 avg60=85.87 avg300=80.91 total=665283608
+=== 2026-05-13T12:36:21-04:00 ===
+usage_usec 263612406
+user_usec 224625400
+system_usec 38987005
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7556
+nr_throttled 7357
+throttled_usec 2561753241
+nr_bursts 0
+burst_usec 0
+some avg10=87.22 avg60=85.66 avg300=81.40 total=670363742
+full avg10=86.71 avg60=85.20 avg300=80.84 total=667477732
+=== 2026-05-13T12:36:42-04:00 ===
+usage_usec 276989840
+user_usec 236859309
+system_usec 40130530
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7765
+nr_throttled 7561
+throttled_usec 2631877831
+nr_bursts 0
+burst_usec 0
+some avg10=92.38 avg60=85.79 avg300=81.63 total=687953188
+full avg10=91.69 avg60=85.20 avg300=81.04 total=684930117

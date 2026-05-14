@@ -1,0 +1,17 @@
+# experiment=mem_pressure mem_limit=768MB threads=4 prompt_len=256 n_predict=128 reps=5
+# date=2026-05-13T12:38:48-04:00
+# rep ttft_ms tok_per_sec total_ms
+1 41.67 33.78 3830.70
+2 30.16 31.96 4034.56
+3 28.06 33.69 3827.21
+4 28.83 33.26 3877.16
+5 29.55 33.36 3866.54
+# ttft_ms: mean=31.65 p50=29.55 p95=39.37 p99=41.21 stdev=5.06
+# tokens_per_sec: mean=33.21 p50=33.36 p95=33.76 p99=33.78 stdev=0.65
+# total_ms: mean=3887.23 p50=3866.54 p95=4003.08 p99=4028.26 stdev=76.20
+# final memory.stat:
+pgfault 1167371
+pgmajfault 5435
+# memory.pressure:
+some avg10=0.06 avg60=0.53 avg300=0.20 total=767076
+full avg10=0.06 avg60=0.53 avg300=0.20 total=761394

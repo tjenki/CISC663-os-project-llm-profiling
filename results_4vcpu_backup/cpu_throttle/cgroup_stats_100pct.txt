@@ -1,0 +1,78 @@
+=== 2026-05-13T12:36:47-04:00 ===
+usage_usec 283485065
+user_usec 238505304
+system_usec 44979760
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=70.10 avg60=82.01 avg300=80.89 total=687992311
+full avg10=69.64 avg60=81.45 avg300=80.30 total=684968011
+=== 2026-05-13T12:36:51-04:00 ===
+usage_usec 298345184
+user_usec 251287345
+system_usec 47057839
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=47.00 avg60=76.73 avg300=79.79 total=688002531
+full avg10=46.69 avg60=76.21 avg300=79.21 total=684975779
+=== 2026-05-13T12:36:54-04:00 ===
+usage_usec 310226145
+user_usec 263168306
+system_usec 47057839
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=32.11 avg60=71.92 avg300=78.72 total=688052722
+full avg10=31.60 avg60=71.37 avg300=78.14 total=685005326
+=== 2026-05-13T12:36:59-04:00 ===
+usage_usec 329810144
+user_usec 280492046
+system_usec 49318098
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=21.71 avg60=67.32 avg300=77.66 total=688070009
+full avg10=21.19 avg60=66.78 avg300=77.08 total=685015175
+=== 2026-05-13T12:37:03-04:00 ===
+usage_usec 344881948
+user_usec 293081801
+system_usec 51800147
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=14.55 avg60=62.99 avg300=76.60 total=688084172
+full avg10=14.20 avg60=62.48 avg300=76.03 total=685021849
+=== 2026-05-13T12:37:06-04:00 ===
+usage_usec 358697421
+user_usec 304767296
+system_usec 53930124
+nice_usec 0
+core_sched.force_idle_usec 0
+nr_periods 7767
+nr_throttled 7563
+throttled_usec 2631951848
+nr_bursts 0
+burst_usec 0
+some avg10=9.76 avg60=58.93 avg300=75.56 total=688098610
+full avg10=9.52 avg60=58.45 avg300=74.99 total=685027234

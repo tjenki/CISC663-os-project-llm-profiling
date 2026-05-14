@@ -1,0 +1,11 @@
+# experiment=cpu_throttle cpu_quota=75pct threads=4 prompt_len=256 n_predict=128 reps=5
+# date=2026-05-13T12:34:42-04:00
+# rep ttft_ms tok_per_sec total_ms
+1 190.81 27.03 4925.63
+2 29.14 11.89 10792.47
+3 158.78 17.12 7637.01
+4 347.89 23.73 5742.57
+5 258.97 14.16 9300.85
+# ttft_ms: mean=197.12 p50=190.81 p95=330.11 p99=344.33 stdev=106.10
+# tokens_per_sec: mean=18.79 p50=17.12 p95=26.37 p99=26.90 stdev=5.73
+# total_ms: mean=7679.71 p50=7637.01 p95=10494.15 p99=10732.81 stdev=2175.16

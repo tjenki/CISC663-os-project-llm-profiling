@@ -1,0 +1,10 @@
+# vcpus=2 threads=4 prompt_len=256 n_predict=128 reps=5
+# rep ttft_ms tok_per_sec total_ms
+1 123.75 7.26 17765.56
+2 159.92 7.39 17477.79
+3 135.15 7.60 16967.34
+4 177.06 6.50 19865.58
+5 138.74 6.99 18462.16
+# ttft_ms: mean=146.92 p50=138.74 p95=173.63 p99=176.37 stdev=19.08
+# tokens_per_sec: mean=7.15 p50=7.26 p95=7.56 p99=7.59 stdev=0.38
+# total_ms: mean=18107.69 p50=17765.56 p95=19584.90 p99=19809.44 stdev=1003.00

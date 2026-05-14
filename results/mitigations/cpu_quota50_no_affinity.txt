@@ -1,0 +1,11 @@
+# mitigation=cpu_affinity state=before cpu_quota=50%
+# date=2026-05-13T12:40:57-04:00
+# rep ttft_ms tok_per_sec total_ms
+1 458.37 29.90 4738.79
+2 35.03 31.45 4105.53
+3 375.89 12.00 11042.28
+4 42.00 29.70 4351.23
+5 392.22 14.13 9448.76
+# ttft_ms: mean=260.70 p50=375.89 p95=445.14 p99=455.72 stdev=183.52
+# tokens_per_sec: mean=23.44 p50=29.70 p95=31.14 p99=31.39 stdev=8.52
+# total_ms: mean=6737.32 p50=4738.79 p95=10723.58 p99=10978.54 stdev=2915.42

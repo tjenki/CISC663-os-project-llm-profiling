@@ -1,0 +1,9 @@
+# experiment=concurrency conc=1 threads=4 prompt_len=256 n_predict=128 reps=5
+# date=2026-05-13T12:18:59-04:00
+# rep ttft_ms tok_per_sec total_ms
+1.1 28.22 32.48 3969.64
+2.1 31.77 24.72 5210.56
+3.1 54.29 19.55 6602.33
+4.1 71.39 19.99 6473.16
+5.1 58.28 20.10 6426.49
+# vmstat_ctxt=14184186

@@ -1,0 +1,8 @@
+# conc=1 threads=4 unique_prompt_per_rep n_predict=128 reps=5 cache=DISABLED
+# date=2026-05-13T18:23:56-04:00
+# rep ttft_ms tok_per_sec total_ms
+1.1 1919.04 0.40 322692.82
+2.1 13943.92 0.75 183896.67
+3.1 4191.83 1.50 89697.80
+4.1 1183.91 1.49 86968.69
+5.1 2612.62 1.38 95695.90

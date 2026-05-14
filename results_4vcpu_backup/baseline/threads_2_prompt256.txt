@@ -1,0 +1,11 @@
+# experiment=thread_sweep threads=2 prompt_len=256 n_predict=128 reps=5
+# date=2026-05-13T12:13:43-04:00
+# rep ttft_ms tok_per_sec total_ms
+1 33.89 30.41 4242.66
+2 36.05 30.47 4237.19
+3 34.78 30.79 4192.43
+4 32.68 30.67 4206.31
+5 33.54 30.61 4214.58
+# ttft_ms: mean=34.19 p50=33.89 p95=35.80 p99=36.00 stdev=1.15
+# tokens_per_sec: mean=30.59 p50=30.61 p95=30.77 p99=30.79 stdev=0.14
+# total_ms: mean=4218.63 p50=4214.58 p95=4241.57 p99=4242.44 stdev=18.85

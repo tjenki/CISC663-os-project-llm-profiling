@@ -1,0 +1,8 @@
+# mitigation=cpu_affinity state=after cpu_quota=50% affinity=0-1
+# date=2026-05-13T12:44:43-04:00
+# rep ttft_ms tok_per_sec total_ms
+1 362.56 7.41 17646.09
+2 201.19 27.01 4939.63
+3 662.78 15.56 8891.37
+4 365.63 4.00 32395.15
+5 263.30 14.28 9227.16
